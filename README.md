@@ -20,3 +20,8 @@ adding a new heading.
 
 #My Changes
 Hello this is my commit.
+
+##This section is about how to configure project
+
+Hello!
+
